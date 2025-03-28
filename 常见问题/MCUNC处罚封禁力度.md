@@ -1,0 +1,41 @@
+# MCUNC 反作弊政策
+
+## 处罚力度规定
+
+时间设置：
+
+|时间|表示|
+|:--:|:--:|
+|警告|`a`|
+|小时|`h`|
+|天|`d`|
+|周|`w`|
+|月|`m`|
+|年|`y`|
+|永久|`f`|
+
+|作弊类型|第`1`次|第`2`次|第`3`次及以上|
+|:--:|:--:|:--:|:--:|
+|`Killaura`|3m|1y|f|
+|`HitBox`(Reach)|1m|3m|f|
+|`Click`|a|24h|1w|
+|`Move`|a|24h|2w|
+|`BadPackets`|a|1h|24h|
+|`Delay`|1m|3m|1y|
+|`FastPlace`/`FastBreak`|a|7d|30d|
+|`Scaffold`|1m|6m|1y|
+|`Jesus`|1d|21d|2m|
+|`Velocity`|1y|3y|f|
+|`Interact`|3m|1y|f|
+|`Phase`|a|f|-|
+|`AutoBot`|a|1m|3m|
+|`Elytra`|a|f|-|
+|`Vehicle`|a|1m|12m|
+
+Version: `1.1.0`
+
+Release on: `2025-03-17`
+
+Licence: [`CC BY-NC`](https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans)
+
+By Gengyeawa
