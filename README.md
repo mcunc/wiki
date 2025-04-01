@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2025-04-01T04:09:24.720Z
+tags: git only
+editor: markdown
+dateCreated: 2025-03-31T15:02:39.525Z
+---
+
 # MCUNC Wiki
 <font size="2">(Git Readme)</font>
 
