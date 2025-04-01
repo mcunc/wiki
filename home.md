@@ -19,7 +19,7 @@ dateCreated: 2025-03-22T13:28:03.923Z
 
 ## 著作权与版权申明
 
-本Wiki所有内容由MCUNC版权所有。如果您希望转载本Wiki内容，请[联系我们](/联系我们)。
+本Wiki所有内容由MCUNC版权所有，遵循[CC BY-NC-SA 4.0协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)。如果您希望以其他形式转载本Wiki内容，请[联系我们](/联系我们)。
 本Wiki所引用的资料将于Wiki详情页面的开头或结尾列出，如有侵权，请[联系我们](/联系我们)删除。
 
 ## 友情链接
