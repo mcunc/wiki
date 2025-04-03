@@ -25,4 +25,4 @@ dateCreated: 2025-03-22T13:28:03.923Z
 ## 友情链接
 
 无尽创意官网： <https://www.mcunc.cn>
-云洛语秋的Wiki： <https://wiki.ylyq.site>
+云洛语秋的Wiki： <https://wiki.ylyq.site> （服务器维护，暂停开放）
