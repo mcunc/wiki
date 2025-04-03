@@ -1,19 +1,10 @@
----
-title: 贡献准则
-description: 
-published: true
-date: 2025-04-03T14:06:47.937Z
-tags: 
-editor: markdown
-dateCreated: 2025-03-31T15:02:39.525Z
----
 
 # MCUNC Wiki
 <font size="2">(Git Readme)</font>
 
 欢迎来到无尽创意MCUNC|Wiki Git仓库！
 
-本仓库与无尽创意MCUNC|wiki(https://wiki.mcunc.cn)同步
+本仓库是https://git.mcunc.cn/mcunc_group/wiki/镜像仓库，将不定时更新。访问该地址以获取最新代码。
 
 ## 版权
 本仓库wiki内容由无尽创意mcunc版权所有，遵循[CC BY-NC-SA 4.0协议](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans)。如要以其他形式发布请[联系我们](/联系我们.md)。
@@ -21,6 +12,7 @@ dateCreated: 2025-03-31T15:02:39.525Z
 本仓库wiki内容所引用内容将在页面开头或结尾展示，如有侵权欢迎[联系我们](/联系我们.md)。
 
 ## 帮助我们改进
+该github仓库仅作为展示使用，请前往https://git.mcunc.cn/mcunc_group/wiki/ 
 如想帮助我们改进。请push到master分支，并提交合并请求。
 
 如果您的内容符合创作要求且质量优良的情况下，我们将使用您的内容。
