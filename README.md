@@ -4,7 +4,7 @@
 
 欢迎来到无尽创意MCUNC|Wiki Git仓库！
 
-本仓库是https://git.mcunc.cn/mcunc_group/wiki/镜像仓库，将不定时更新。访问该地址以获取最新代码。
+本仓库是https://git.mcunc.cn/mcunc_group/wiki/ 镜像仓库，将不定时更新。访问该地址以获取最新代码。
 
 ## 版权
 本仓库wiki内容由无尽创意mcunc版权所有，遵循[CC BY-NC-SA 4.0协议](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-hans)。如要以其他形式发布请[联系我们](/联系我们.md)。
